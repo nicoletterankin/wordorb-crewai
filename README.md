@@ -1,6 +1,6 @@
-# CrewAI + WordOrb Integration
+# CrewAI + Word Orb Integration
 
-Use the [WordOrb.ai](https://wordorb.ai) vocabulary and lesson API as tools
+Use the [wordorb.ai](https://wordorb.ai) vocabulary and lesson API as tools
 inside any CrewAI crew.
 
 ## Setup
@@ -11,7 +11,7 @@ export WORDORB_API_KEY="wo_live_abc123"
 export OPENAI_API_KEY="sk-..."
 ```
 
-Get a free WordOrb API key at [wordorb.ai/pricing](https://wordorb.ai/pricing).
+Get a Word Orb API key at [wordorb.ai/pricing](https://wordorb.ai/pricing).
 
 ## Tools included
 
@@ -71,7 +71,7 @@ To list these tools in the [CrewAI tools directory](https://docs.crewai.com/tool
    - Tool names and descriptions
    - Setup instructions (API key, env vars)
    - A working example showing at least one agent using the tools
-   - Link to WordOrb API documentation at `https://wordorb.ai/docs`
+   - Link to Word Orb API documentation at `https://wordorb.ai/docs`
 
 ## License
 
